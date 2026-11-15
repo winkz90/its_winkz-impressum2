@@ -1,20 +1,30 @@
 # Impressum
 
-**Angaben gemäß § 5 DDG**
+**Angaben gemäß § 5 DDG, soweit anwendbar**
 
-**Kanalname:** its_winkz  
-**Inhaber:** Franz Winkelmann  
-**Plattform:** Twitch  
-**Twitch-Kanal:** https://www.twitch.tv/its_winkz
+### Betreiber und Verantwortlicher
+
+**Name:** Franz Winkelmann  
+**Creator-Name:** its_winkz
 
 ### Kontakt
 
 **E-Mail:** its_winkz@gmx.de
 
+### Social-Media-Präsenzen
+
+Dieses Impressum gilt für die folgenden Social-Media-Auftritte unter dem Namen **its_winkz**:
+
+- **Twitch:** https://www.twitch.tv/its_winkz
+- **TikTok:** its_winkz
+- **Instagram:** its_winkz
+- **YouTube:** its_winkz
+- **Discord:** its_winkz
+
 ### Haftung für Inhalte
 
-Die Inhalte dieses Twitch-Kanals wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte wird jedoch keine Gewähr übernommen.
+Die Inhalte meiner Social-Media-Auftritte werden mit größtmöglicher Sorgfalt erstellt. Eine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen wird nicht übernommen. Gesetzliche Haftungspflichten bleiben unberührt.
 
 ### Urheberrecht
 
-Die auf diesem Twitch-Kanal veröffentlichten Inhalte unterliegen dem deutschen Urheberrecht. Eine Verwendung oder Verbreitung ohne vorherige Zustimmung ist nicht gestattet, soweit keine gesetzlichen Ausnahmen greifen.
+Die von mir erstellten und veröffentlichten Inhalte unterliegen dem geltenden Urheberrecht. Eine Nutzung außerhalb der gesetzlichen Schranken bedarf meiner vorherigen Zustimmung.
